@@ -1,1 +1,1 @@
-production
+print "Hello World!"
