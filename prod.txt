@@ -2,3 +2,4 @@ print "Hello World!"
 new release
 trigger check
 push to dev
+build check
